@@ -9,6 +9,6 @@ export default {
 	course_video_2: 379515065, //'https://ml-ref-data.s3.us-east-2.amazonaws.com/course/course2.mov',
 	course_video_3: 393090512,
 	tutorial_video: 393576638, //385569625,//'https://ml-ref-data.s3.us-east-2.amazonaws.com/course/tutorial.MOV',
-	googlekey: 'AIzaSyDHbEKtybS-hAombXHKcsvpZdDREI0z9cI',
+	googlekey: '',
 	vimeoToken: '786e536e05dcbf5c7c5d1928143c311c'
 }
