@@ -2,7 +2,6 @@
   react-native run-iOS
 - Android install
   react-native run-android
-
 - node-modules/react-native-orientation/android/build.gradle
     compileSdkVersion 26
     buildToolsVersion '26.0.2'
